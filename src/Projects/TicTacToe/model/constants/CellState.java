@@ -1,4 +1,4 @@
-package Projects.TicTacToe.model;
+package Projects.TicTacToe.model.constants;
 
 public enum CellState {
     FILLED,EMPTY;
