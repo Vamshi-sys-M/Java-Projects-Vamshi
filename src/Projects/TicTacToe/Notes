@@ -1,0 +1,5 @@
+Replay
+
+1.  Game Object stores  --> List<Board>.
+2.  Whenever a move is played, the new board state is cloned and copy is stored in List<Board>.
+3.  When we want to see the replay, we loop through the List<Board> and do displayBoard() for each board state.

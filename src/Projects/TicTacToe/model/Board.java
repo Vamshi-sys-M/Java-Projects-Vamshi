@@ -30,6 +30,9 @@ public class Board {
             System.out.println();
         }
     }
+    public Board cloneBoard(){
+        return null; //TODO add the logic for deep copy
+    }
 
     public int getDimension() {
         return dimension;
