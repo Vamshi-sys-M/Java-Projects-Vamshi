@@ -2,7 +2,6 @@ package Projects.TicTacToe.controller;
 
 import Projects.TicTacToe.model.Board;
 import Projects.TicTacToe.model.Game;
-import Projects.TicTacToe.model.Move;
 import Projects.TicTacToe.model.Player;
 import Projects.TicTacToe.model.constants.GameStatus;
 
